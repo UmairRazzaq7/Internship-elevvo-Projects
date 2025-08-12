@@ -30,4 +30,8 @@ Explore sales patterns interactively.
 
 ## 👤 About Me
 Physics Undergraduate | Data Enthusiast | Passionate Learner 
-LinkedIn: https://www.linkedin.com/in/umair-razzaq-78765235a
+
+### 📞 *Contact*  
+<a href="https://www.linkedin.com/in/umair-razzaq-78765235a/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+</a>
